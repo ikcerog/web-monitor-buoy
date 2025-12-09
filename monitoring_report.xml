@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <MonitoringReport>
   <Status>2 Change(s) or Initial Check(s) Detected.</Status>
-  <TimestampGenerated>2025-12-09T15:59:10.716153</TimestampGenerated>
+  <TimestampGenerated>2025-12-09T18:43:47.188544</TimestampGenerated>
   <ChangeItem>
     <Name>Google_Homepage</Name>
     <URL>https://www.google.com</URL>
-    <Timestamp>2025-12-09T15:59:08.211847</Timestamp>
-    <Status>Initial Check (No history recorded)</Status>
-    <HashDetails>Initial Hash: 11286759...</HashDetails>
+    <Timestamp>2025-12-09T18:43:44.466755</Timestamp>
+    <Status>Content Changed</Status>
+    <HashDetails>Old: 11286759... -&gt; New: 5effece2...</HashDetails>
   </ChangeItem>
   <ChangeItem>
     <Name>UWM Press Releases</Name>
     <URL>https://www.uwm.com/press-releases</URL>
-    <Timestamp>2025-12-09T15:59:09.714488</Timestamp>
-    <Status>Initial Check (No history recorded)</Status>
-    <HashDetails>Initial Hash: 81e34c36...</HashDetails>
+    <Timestamp>2025-12-09T18:43:46.186789</Timestamp>
+    <Status>Content Changed</Status>
+    <HashDetails>Old: 81e34c36... -&gt; New: b2d9d0b9...</HashDetails>
   </ChangeItem>
 </MonitoringReport>
